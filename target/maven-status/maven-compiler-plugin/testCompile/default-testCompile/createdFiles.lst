@@ -1,0 +1,7 @@
+stepDefinitions\LoginIntoAdminPanel.class
+testMaven\TestClass.class
+testMaven\GetAttribute.class
+testMaven\ReverseString.class
+testRunners\TestRunner.class
+testMaven\Execution.class
+testMaven\Repository.class
