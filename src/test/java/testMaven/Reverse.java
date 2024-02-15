@@ -14,6 +14,7 @@ public class Reverse {
 	               System.out.print(ch);
 	            }
 		  }
+		System.out.println("");
 
 }
 }
